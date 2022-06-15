@@ -65,7 +65,7 @@ objects:
                   value: '${KEYCLOAK_ADMIN_PASSWORD}'
                 - name: KC_PROXY
                   value: 'edge'
-              image: quay.io/keycloak/keycloak:0.804.0
+              image: quay.io/keycloak/keycloak:0.805.0
               livenessProbe:
                 failureThreshold: 100
                 httpGet:

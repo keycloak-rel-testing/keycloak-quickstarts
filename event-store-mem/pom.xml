@@ -20,7 +20,7 @@
     <parent>
         <artifactId>keycloak-quickstart-parent</artifactId>
         <groupId>org.keycloak.quickstarts</groupId>
-        <version>308.1.0</version>
+        <version>21.1.1-operator-dockerfile</version>
     </parent>
 
     <name>Keycloak Quickstart: Event Store In-Mem</name>
